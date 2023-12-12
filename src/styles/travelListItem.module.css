@@ -1,0 +1,52 @@
+.travelListItem {
+  border: solid black;
+  display: flex;
+  margin: 1rem;
+  gap: 0.5rem;
+  width: 60vw;
+}
+
+.containerText {
+  text-align: left;
+}
+
+.containerImage img {
+  width: 15rem;
+}
+
+.containerImage {
+  margin: 1rem;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.italics {
+  font-style: italic;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+.label {
+  border: solid;
+  border-radius: 5px;
+  font-size: 0.7rem;
+  width: fit-content;
+  padding: 2px 5px;
+  font-weight: bold;
+}
+
+.blueLabel {
+  border-color: #366bca;
+  background-color: #366bca;
+  color: white;
+}
+
+.greenLabel {
+  border-color: #77bc77;
+  background-color: #77bc77;
+  color: black;
+}
